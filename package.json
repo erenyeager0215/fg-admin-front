@@ -8,9 +8,11 @@
     "@mui/material": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "axios": "^1.6.8",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
+    "sass": "^1.72.0",
     "typescript": "latest"
   },
   "scripts": {
